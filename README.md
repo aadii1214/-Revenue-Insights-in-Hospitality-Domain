@@ -1,1 +1,2 @@
 # -Revenue-Insights-in-Hospitality-Domain
+Welcome to the Revenue Insights in Hospitality Domain project! This repository presents an in-depth analysis of revenue-related data in the hospitality industry, offering key insights to drive data-informed decisions. The project leverages Power BI to create a dynamic and interactive dashboard that visualizes trends, identifies opportunities, and monitors performance metrics.
